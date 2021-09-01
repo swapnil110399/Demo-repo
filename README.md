@@ -1,3 +1,3 @@
-This is used to learn and try GIT
+This is used to learn and try GIT.
 
-this is the new edit
+This is the new edit.
